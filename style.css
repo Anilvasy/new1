@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: auto;
+    background-color: rgb(235, 222, 222);
+    
+}
+h3:hover{
+    background-color: black;
+    color: white;
+    
+
+}
+#headline{
+    text-align: center;
+
+    
+}
+.details{
+    padding-top: 50px;
+    text-align: center ;
+    text-decoration: none;
+    
+    font-size: 20px;
+}
+#name:hover{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+#mail:hover{
+    text-decoration: none;
+    color: rgb(202, 47, 36);
+    background-color: black;
+    
+}
+#phone:hover{
+    text-decoration: none;
+    color: green;
+    background-color: black;
+}
+
+#link:hover{
+    text-decoration: none;
+    color: blue;
+    background-color: black;
+    padding: 5px;
+    border: 2px solid;
+}
+.care{
+    padding-top: 40px;
+}
+#h:hover{
+    background-color: black;
+    color: white;
+    
+}
+#caa{
+    text-align: center;
+    padding-top: 15px;
+}
+#caa:hover{
+    background-color: black;
+    color: white;
+}
+.table{
+    padding-top: 30px;
+      
+}
+#education{
+    border-collapse: collapse;
+    width: 100%;
+    padding-top: 30px;
+    
+}
+#education td,#education th{
+    border: 2px solid;
+    padding: 5px;
+}
+#education th{
+    padding: 12px;
+    background-color: rgba(23, 22, 22, 0.669);
+    color: white;
+    text-align: center;
+}
+#edducation tr:nth-child(){
+    background-color: black;
+    color: white;
+}
+.skill{
+    padding-top: 30px;
+}
+#html{
+    padding-top: 30px;
+    text-align: center;
+
+}
+#html:hover{
+    color: rgb(225, 93, 21);
+}
+#css{
+    padding-top: 10px;
+    text-align: center;
+
+}
+#css:hover{
+    color: rgb(69, 21, 225);
+}
+#c{
+    padding-top: 10px;
+    text-align: center;
+
+}
+#c:hover{
+    color: rgba(22, 22, 185, 0.751);
+}
+#py{
+    padding-top: 10px;
+    text-align: center;
+
+}
+#py:hover{
+    color: rgba(101, 185, 22, 0.751);
+}
+.page{
+    padding-top: 35px;
+    text-align: center;
+
+}
+.page:hover{
+    color: rgb(51, 31, 224);
+    transform: initial;
+}
+.per{
+    padding-top: 20px;
+     text-align: center;
+     color: black;
+}
+#pe:hover{
+    background-color: gray;
+    color: white;
+}
+.in
+{
+    text-align: center;
+    color: black;
+    font-size:15px ;
+    padding-bottom: 20px;
+}
+.follow{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+#fa{
+    color: rgb(39, 27, 205);
+}
+#fa:hover{
+    background-color: black;
+}
+#pi{
+    color: rgb(205, 27, 57);
+}
+#pi:hover{
+    background-color: white;
+}
+#tw{
+    color: rgb(51, 27, 205);
+}
+#tw:hover{
+    background-color: black;
+}
+#gi{
+    color: black;
+}
+#gi:hover{
+    background-color: white;
+}
